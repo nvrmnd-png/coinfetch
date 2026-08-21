@@ -1,0 +1,33 @@
+[package]
+name = "coinfetch"
+version = "0.1.0"
+edition = "2024"
+
+rust-version = "1.88"
+description = "Crypto prices and wallet balances in your terminal, in the spirit of neofetch"
+license = "GPL-3.0-only"
+repository = "https://github.com/nvrmnd-png/coinfetch"
+
+[dependencies]
+clap = { version = "4.6", features = ["derive"] }
+tokio = { version = "1.53", features = ["rt-multi-thread", "macros", "time"] }
+reqwest = { version = "0.13", features = ["json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.9"
+directories = "6.0"
+thiserror = "2.0"
+ratatui = "0.30"
+crossterm = "0.29"
+
+plotters = { version = "0.3", default-features = false, features = ["bitmap_backend", "line_series"] }
+
+viuer = { version = "0.11", default-features = false, features = ["icy_sixel"] }
+icy_sixel = "0.1"
+
+image = { version = "0.25", default-features = false }
+keyring = "4.1"
+
+[profile.release]
+strip = true
+lto = true

@@ -1,0 +1,117 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "api_symbol": "bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/thumb/bitcoin.png",
+      "large": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png"
+    },
+    {
+      "id": "whitebit",
+      "name": "WhiteBIT Coin",
+      "api_symbol": "whitebit",
+      "symbol": "WBT",
+      "market_cap_rank": 18,
+      "thumb": "https://coin-images.coingecko.com/coins/images/27045/thumb/wbt_token.png",
+      "large": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png"
+    },
+    {
+      "id": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "api_symbol": "bitcoin-cash",
+      "symbol": "BCH",
+      "market_cap_rank": 22,
+      "thumb": "https://coin-images.coingecko.com/coins/images/780/thumb/bitcoin-cash-circle.png",
+      "large": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png"
+    },
+    {
+      "id": "bittensor",
+      "name": "Bittensor",
+      "api_symbol": "bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 42,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/thumb/ARUsPeNQ_400x400.jpeg",
+      "large": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg"
+    },
+    {
+      "id": "bitget-token",
+      "name": "Bitget Token",
+      "api_symbol": "bitget-token",
+      "symbol": "BGB",
+      "market_cap_rank": 62,
+      "thumb": "https://coin-images.coingecko.com/coins/images/11610/thumb/Bitget_logo.png",
+      "large": "https://coin-images.coingecko.com/coins/images/11610/large/Bitget_logo.png"
+    },
+    {
+      "id": "bitway",
+      "name": "Bitway",
+      "api_symbol": "bitway",
+      "symbol": "BTW",
+      "market_cap_rank": 92,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71205/thumb/BTW_Token_200x200.png",
+      "large": "https://coin-images.coingecko.com/coins/images/71205/large/BTW_Token_200x200.png"
+    },
+    {
+      "id": "arbitrum",
+      "name": "Arbitrum",
+      "api_symbol": "arbitrum",
+      "symbol": "ARB",
+      "market_cap_rank": 95,
+      "thumb": "https://coin-images.coingecko.com/coins/images/16547/thumb/arb.jpg",
+      "large": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg"
+    },
+    {
+      "id": "bitcoin-cash-sv",
+      "name": "Bitcoin SV",
+      "api_symbol": "bitcoin-cash-sv",
+      "symbol": "BSV",
+      "market_cap_rank": 129,
+      "thumb": "https://coin-images.coingecko.com/coins/images/6799/thumb/BSV.png",
+      "large": "https://coin-images.coingecko.com/coins/images/6799/large/BSV.png"
+    }
+  ],
+  "exchanges": [
+    {
+      "id": "bybit_spot",
+      "name": "Bybit",
+      "market_type": "spot",
+      "thumb": "https://coin-images.coingecko.com/markets/images/698/thumb/bybit_spot.png",
+      "large": "https://coin-images.coingecko.com/markets/images/698/large/bybit_spot.png"
+    },
+    {
+      "id": "tapbit",
+      "name": "Tapbit",
+      "market_type": "spot",
+      "thumb": "https://coin-images.coingecko.com/markets/images/1374/thumb/512.png",
+      "large": "https://coin-images.coingecko.com/markets/images/1374/large/512.png"
+    }
+  ],
+  "icos": [],
+  "categories": [
+    {
+      "id": "arbitrum-nova-ecosystem",
+      "name": "Arbitrum Nova Ecosystem"
+    },
+    {
+      "id": "arbitrum-ecosystem",
+      "name": "Arbitrum Ecosystem"
+    }
+  ],
+  "nfts": [
+    {
+      "id": "bitcoin-frugs",
+      "name": "Bitcoin Frugs",
+      "symbol": "BTC-FRUGS",
+      "thumb": "https://coin-images.coingecko.com/nft_contracts/images/15369/thumb/bitcoin-frugs.jpg"
+    },
+    {
+      "id": "zbit-loot-box",
+      "name": "ZBIT Loot Box",
+      "symbol": "ZBIT-LOOT-BOX",
+      "thumb": "https://coin-images.coingecko.com/nft_contracts/images/4675/thumb/zbit-loot-box.png"
+    }
+  ]
+}

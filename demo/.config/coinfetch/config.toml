@@ -1,0 +1,6 @@
+default_coins = ["bitcoin", "ethereum", "solana"]
+cache_ttl_secs = 60
+palette = ["cyan", "magenta", "yellow", "green", "blue", "red"]
+wallet_addresses = []
+chart_render = "steps"
+chart_minimal = false
